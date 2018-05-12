@@ -1,10 +1,16 @@
 _repo: Die-Uhren-Ein-Abri0xdf-der-Geschichte-der-Zeitmessung_50244
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50244-h/images/cover.jpg
 creator:
   author:
     agent_name: Kindler, Fintan
     gutenberg_agent_id: '45770'
     url: http://www.gutenberg.org/2009/agents/45770
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50244#Die-Uhren-Ein-Abri0xdf-der-Geschichte-der-Zeitmessung
 gutenberg_issued: '2015-10-17'
 gutenberg_type: Text
 identifiers:
